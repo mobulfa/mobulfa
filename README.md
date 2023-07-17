@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mobulfa
 - 👀 I’m interested in Music and Coding
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js, ejs, node, mongodb.
 - 💞️ I’m looking to collaborate on all of you with same interest
 - 📫 How to reach me ...Heres my email manuelito.bulfa@gmail.com you can email me anytime..thanks
 
